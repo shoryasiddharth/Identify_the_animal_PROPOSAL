@@ -8,3 +8,6 @@ https://s3-ap-southeast-1.amazonaws.com/he-public-data/DL%23+Beginner.zip
 Going to this link will automatically start downloading the data set.
 This is a hackathon on hackerearth.com and it's link is as follows-
 https://www.hackerearth.com/challenge/competitive/deep-learning-beginner-challenge/machine-learning/predict-the-energy-used-612632a9-9de79188/
+
+Dataset can be found on-
+https://www.kaggle.com/vic006/beginner
